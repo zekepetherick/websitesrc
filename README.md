@@ -1,4 +1,4 @@
-# websitesrc
+# WebsiteSRC
 
 This is the source code for my test website https://zekepetherick.netlify.app/.
 
